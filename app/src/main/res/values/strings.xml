@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">EasyLogin</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="or">OR</string>
+    <string name="logout">Logout</string>
+    <string name="country">Country</string>
+    <string name="password_text">- Password must contains min 8 characters with at least one number, special character, lowercase letter, and uppercase letter</string>
+    <string name="logout_text">No features yet, but we\'ve got an epic logout button! 😂👋</string>
 </resources>
